@@ -4,6 +4,9 @@ Leaflet map with multiple API data feeds from USGS, Socrata, Esri ArcGIS Online
 ## Demo
 https://jackdougherty.github.io/leaflet-data-apis/index.html
 
+mine
+https://pliok.github.io/leaflet-data-apis/
+
 ## Learn more at
 
 - *Data Visualization for All* book, tutorials in-progress on Leaflet code templates http://DataVizForAll.org
